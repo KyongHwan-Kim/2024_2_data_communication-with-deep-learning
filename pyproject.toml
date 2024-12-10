@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "data-communication-project"
+version = "0.1.0"
+description = "2024년 데이터 통신 딥러닝 프로젝트"
+authors = ["Kyounghwan <kyounghwan1989@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
